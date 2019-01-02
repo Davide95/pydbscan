@@ -9,4 +9,4 @@ All generated images were previously stored in the folder `output`.
 You need to install Python3 and some libraries before running the scripts:
 * numpy;
 * matplotlib;
-* sklearn;
+* sklearn.
